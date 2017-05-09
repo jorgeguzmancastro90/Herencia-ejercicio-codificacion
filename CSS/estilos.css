@@ -1,0 +1,25 @@
+html
+{
+   color: white;
+   font-family: verdana;
+   background: black;
+}
+h1
+ {
+   font-family: arial
+ }
+
+div
+{
+margin-top: 10px;
+margin-left: 20px;
+}
+img
+{
+background-color: white;
+}
+a
+{
+color: white;
+
+}
